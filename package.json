@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^6.13.5"
+  }
+}
